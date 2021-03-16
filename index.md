@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/globbia/globbia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hey! I am currently a PhD student in the School of Mathematics, University of Leeds supervised by [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research
 
-### Markdown
+My research interests are in category theory, logic and algebra. More precisely, I mainly work on monad theory and low dimensional category theory. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications 
+- [On the formal theory of pseudomonads and pseudodistributive laws](http://www.tac.mta.ca/tac/volumes/37/2/37-02abs.html), with N. Gambino,
+_Theory and Applications of Categories_, 37 (2), 2021, pp. 14-56.
 
-```markdown
-Syntax highlighted code block
+### Preprints 
+- [Distributive laws for relative monads](https://arxiv.org/abs/2007.12982), 
+arXiv:2007.12982, 2020 (under review). 
 
-# Header 1
-## Header 2
-### Header 3
+## ItaCa
 
-- Bulleted
-- List
+I volunteer as social media manager for [ItaCa](https://progetto-itaca.github.io/).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/globbia/globbia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
