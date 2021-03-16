@@ -1,3 +1,4 @@
+layout: default
 
 Hey! I am currently a PhD student in the School of Mathematics, University of Leeds supervised by [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/). 
 
