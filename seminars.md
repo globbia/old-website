@@ -1,6 +1,6 @@
 ---
 title: Talks
-layout: slate
+layout: default
 filename: saminars.md
 --- 
 
