@@ -1,6 +1,6 @@
 ---
 title: Talks
-layout: default
+layout: 
 filename: saminars.md
 --- 
 
