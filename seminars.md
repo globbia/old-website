@@ -1,7 +1,7 @@
 ---
 title: Talks
 layout: slate
-filename: saminars.md
+filename: seminars.md
 --- 
 
 - _Distributive laws for relative monads_, [Masaryk University Algebra Seminar](http://www.math.muni.cz/~bourkej/BAS.html), online, [video](https://www.youtube.com/watch?v=0BbeMJ4vDD8), December 2020. 
