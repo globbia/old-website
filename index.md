@@ -1,5 +1,7 @@
 
-Hey! I am currently a postdoc in the [Algebra Group](http://www.math.muni.cz/~bourkej/BAS.html) in the Department for Mathematics and Statistics at [Masaryk University](https://www.math.muni.cz/english/) in Brno, CZ. In December 2021 I submitted my PhD thesis "Pseudomonads, Relative Monads and Strongly Finitary Notions of Multicategory" at the School of Mathematics, University of Leeds supervised by [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/). 
+Hey! I am currently a postdoc in the [Algebra Group](http://www.math.muni.cz/~bourkej/BAS.html) in the Department for Mathematics and Statistics at [Masaryk University](https://www.math.muni.cz/english/) in Brno, CZ. 
+
+In December 2021 I submitted my PhD thesis "Pseudomonads, Relative Monads and Strongly Finitary Notions of Multicategory" at the School of Mathematics, University of Leeds supervised by [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/). 
 
 ## Research
 My research interests are in category theory, logic and algebra. More precisely, I mainly work on monad theory and low dimensional category theory. 
