@@ -1,5 +1,5 @@
 
-Hey! I am currently a postdoc in the [Algebra Group](http://www.math.muni.cz/~bourkej/BAS.html) in the Department for Mathematics and Statistics at [Masaryk University](https://www.math.muni.cz/english/) in Brno, CZ. Before that I was a PhD student supervised by [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) at the School of Mathematics, University of Leeds. I defended my thesis ["Pseudomonads, Relative Monads and Strongly Finitary Notions of Multicategory"](https://etheses.whiterose.ac.uk/30578/) in February 2022. 
+Hey! I am currently a postdoc in the [Algebra Group](http://www.math.muni.cz/~bourkej/BAS.html) in the Department for Mathematics and Statistics at [Masaryk University](https://www.math.muni.cz/english/) in Brno, CZ. Before that I was a PhD student supervised by [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) at the School of Mathematics, University of Leeds. I defended my thesis ["Pseudomonads, Relative Monads and Strongly Finitary Notions of Multicategory"](https://etheses.whiterose.ac.uk/30578/) in February 2022. You can find my cv [here](Gabriele_Lobbia_CV.pdf).
 
 ## Research
 My research interests are in category theory, logic and algebra. More precisely, I mainly work on monad theory and low dimensional category theory. 
