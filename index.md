@@ -12,6 +12,10 @@ _Theory and Applications of Categories_, 37 (2), 2021, pp. 14-56.
 - [Distributive laws for relative monads](https://arxiv.org/abs/2007.12982), 
 arXiv:2007.12982, 2020. 
 
+### Work in Progress
+- _Strongly Finitary Notions of Multicategory_, joint work with [John Bourke](http://www.math.muni.cz/~bourkej/) (a first version can be found in the last chapter of my PhD Thesis).
+- _Kan Injectivity and KZ-Monads_, joint work with [Ivan Di Liberti](https://diliberti.github.io/) and [Lurdes Sousa](http://www.estgv.ipv.pt/paginaspessoais/sousa/). 
+
 ## Talks
 You can find a list of some talks I have given [here](https://globbia.github.io/seminars). 
 
