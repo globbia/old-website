@@ -5,14 +5,16 @@ Hey! I am currently a postdoc in the [Algebra Group](http://www.math.muni.cz/~bo
 My research interests are in category theory, logic and algebra. More precisely, I mainly work on monad theory and low dimensional category theory. 
 
 ### Publications 
+- [Distributive laws for relative monads](https://arxiv.org/abs/2007.12982), 
+to appear in _Applied Categorical Structures_, 2023.
 - [On the formal theory of pseudomonads and pseudodistributive laws](http://www.tac.mta.ca/tac/volumes/37/2/37-02abs.html), with [N. Gambino](http://www1.maths.leeds.ac.uk/~pmtng/),
 _Theory and Applications of Categories_, 37 (2), 2021, pp. 14-56.
 
-### Preprints 
-- [Distributive laws for relative monads](https://arxiv.org/abs/2007.12982), 
-arXiv:2007.12982, 2020. 
-- [KZ-Monads and Kan Injectivity](https://arxiv.org/abs/2211.00380), with [I. Di Liberti](https://diliberti.github.io/) and [L. Sousa](http://www.estgv.ipv.pt/paginaspessoais/sousa/), arXiv:2211.00380, 2022. 
+
+### Preprints  
 - [A skew approach to enrichment for Gray-categories](https://arxiv.org/abs/2212.12358), with [J. Bourke](http://www.math.muni.cz/~bourkej/), arXiv:2212.12358, 2022. 
+- [KZ-Monads and Kan Injectivity](https://arxiv.org/abs/2211.00380), with [I. Di Liberti](https://diliberti.github.io/) and [L. Sousa](http://www.estgv.ipv.pt/paginaspessoais/sousa/), arXiv:2211.00380, 2022. 
+
 
 ### Work in Progress
 - _Strongly Finitary Notions of Multicategory_, joint work with [J. Bourke](http://www.math.muni.cz/~bourkej/) (a first version can be found in the last chapter of my PhD Thesis).
