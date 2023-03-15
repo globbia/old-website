@@ -12,8 +12,8 @@ _Theory and Applications of Categories_, 37 (2), 2021, pp. 14-56.
 
 
 ### Preprints  
-- [A skew approach to enrichment for Gray-categories](https://arxiv.org/abs/2212.12358), with [J. Bourke](http://www.math.muni.cz/~bourkej/), arXiv:2212.12358, 2022. 
-- [KZ-Monads and Kan Injectivity](https://arxiv.org/abs/2211.00380), with [I. Di Liberti](https://diliberti.github.io/) and [L. Sousa](http://www.estgv.ipv.pt/paginaspessoais/sousa/), arXiv:2211.00380, 2022. 
+- [A skew approach to enrichment for Gray-categories](https://arxiv.org/abs/2212.12358), with [J. Bourke](http://www.math.muni.cz/~bourkej/), arXiv:2212.12358, 2022 (submitted).  
+- [KZ-Monads and Kan Injectivity](https://arxiv.org/abs/2211.00380), with [I. Di Liberti](https://diliberti.github.io/) and [L. Sousa](http://www.estgv.ipv.pt/paginaspessoais/sousa/), arXiv:2211.00380, 2022 (submitted). 
 
 
 ### Work in Progress
