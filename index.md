@@ -18,7 +18,7 @@ _Theory and Applications of Categories_, 37 (2), 2021, pp. 14-56.
 
 ### Work in Progress
 - _Strongly Finitary Notions of Multicategory_, joint work with [J. Bourke](http://www.math.muni.cz/~bourkej/) (a first version can be found in the last chapter of my PhD Thesis).
-- _Homotopical and higher categorical aspects of Gray-enrichment_, joint work with [J. Bourke](http://www.math.muni.cz/~bourkej/), followup to [_A skew approach to enrichment for Gray-categories_](https://arxiv.org/abs/2212.12358). 
+- _Homotopical and higher categorical aspects of Gray-enrichment_, joint work with [J. Bourke](http://www.math.muni.cz/~bourkej/) (followup to [_A skew approach to enrichment for Gray-categories_](https://arxiv.org/abs/2212.12358)). 
 
 ## Talks
 You can find a list of some talks I have given [here](https://globbia.github.io/seminars). 
