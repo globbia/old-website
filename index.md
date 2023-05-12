@@ -6,9 +6,9 @@ My research interests are in category theory, logic and algebra. More precisely,
 
 ### Publications 
 - [Distributive laws for relative monads](https://link.springer.com/article/10.1007/s10485-023-09716-1), 
-_Applied Categorical Structures_, 31 (19), 2023 ([preprint](https://arxiv.org/abs/2007.12982)).
+_Applied Categorical Structures_, 31 (19), preprint available [here](https://arxiv.org/abs/2007.12982), 2023.
 - [On the formal theory of pseudomonads and pseudodistributive laws](http://www.tac.mta.ca/tac/volumes/37/2/37-02abs.html), with [N. Gambino](http://www1.maths.leeds.ac.uk/~pmtng/),
-_Theory and Applications of Categories_, 37 (2), 2021, pp. 14-56.
+_Theory and Applications of Categories_, 37 (2), pp. 14-56, 2021.
 
 
 ### Preprints  
