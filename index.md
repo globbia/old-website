@@ -5,6 +5,7 @@ Hey! I am currently a postdoc in the [Algebra Group](http://www.math.muni.cz/~bo
 My research interests are in category theory, logic and algebra. More precisely, I mainly work on low dimensional category theory, monad theory and skew structures (monoidal, multicategories...). 
 
 ### Publications 
+- [KZ-Monads and Kan Injectivity](https://arxiv.org/abs/2211.00380), with [I. Di Liberti](https://diliberti.github.io/) and [L. Sousa](http://www.estgv.ipv.pt/paginaspessoais/sousa/), to appear in _Theory and Applications of Categories_ special volume in honour of Marta Bunge, preprint available at arXiv:2211.00380, 2023. 
 - [Distributive laws for relative monads](https://link.springer.com/article/10.1007/s10485-023-09716-1), 
 _Applied Categorical Structures_, 31 (19), preprint available [here](https://arxiv.org/abs/2007.12982), 2023.
 - [On the formal theory of pseudomonads and pseudodistributive laws](http://www.tac.mta.ca/tac/volumes/37/2/37-02abs.html), with [N. Gambino](http://www1.maths.leeds.ac.uk/~pmtng/),
@@ -13,7 +14,7 @@ _Theory and Applications of Categories_, 37 (2), pp. 14-56, 2021.
 
 ### Preprints  
 - [A skew approach to enrichment for Gray-categories](https://arxiv.org/abs/2212.12358), with [J. Bourke](http://www.math.muni.cz/~bourkej/), arXiv:2212.12358, 2022 (submitted).  
-- [KZ-Monads and Kan Injectivity](https://arxiv.org/abs/2211.00380), with [I. Di Liberti](https://diliberti.github.io/) and [L. Sousa](http://www.estgv.ipv.pt/paginaspessoais/sousa/), arXiv:2211.00380, 2022 (submitted). 
+
 
 
 ### Work in Progress
