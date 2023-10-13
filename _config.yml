@@ -1,6 +1,37 @@
-title: Gabriele Lobbia 
+title: "Gabriele Lobbia"
+author: "Gabriele Lobbia"
 logo: /assets/bojack_hopper.png
-description: 
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-slate
+description: "lobbia[at]math.muni.cz"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: false       # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: true             # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: Home, file: "index.md"}
+  - {title: CV, file: "Gabriele_Lobbia_CV.pdf"}
+  - {title: Papers, file: "index.md"}
+  - {title: Other, file: "seminars.md"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:lobbia@math.muni.cz"}
+  - {title: Muni page, icon: university, url: "https://www.muni.cz/en/people/247277-gabriele-lobbia"}
+  - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0002-2732-0317"}
+  - {title: Scholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=xjHu2moAAAAJ&hl=it"}
+#  - {title: "-", file: "orologi.md"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
