@@ -11,7 +11,6 @@ My research interests are in category theory, logic and algebra. More precisely,
 _Applied Categorical Structures_, 31 (19), preprint available at [arXiv:2007.12982](https://arxiv.org/abs/2007.12982), 2023. <br>
 [1] [On the formal theory of pseudomonads and pseudodistributive laws](http://www.tac.mta.ca/tac/volumes/37/2/37-02abs.html), with [N. Gambino](http://www1.maths.leeds.ac.uk/~pmtng/),
 _Theory and Applications of Categories_, 37 (2), pp. 14-56, 2021.
-{: reversed="reversed"}
 
 
 ### Preprints  
@@ -19,7 +18,7 @@ _Theory and Applications of Categories_, 37 (2), pp. 14-56, 2021.
 
 
 ### Work in Progress
-- _Strongly Finitary Notions of Multicategory_, joint work with [J. Bourke](http://www.math.muni.cz/~bourkej/) (a first version can be found in the last chapter of my PhD Thesis).
+- _Strongly Finitary Notions of Multicategory_ (a first version can be found in the last chapter of my PhD Thesis).
 - _Homotopical and higher categorical aspects of Gray-enrichment_, joint work with [J. Bourke](http://www.math.muni.cz/~bourkej/) (followup to [_A skew approach to enrichment for Gray-categories_](https://arxiv.org/abs/2212.12358)).
 
 
