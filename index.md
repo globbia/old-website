@@ -1,3 +1,11 @@
+---
+layout: page
+tags: [formatting]
+title: "About me"
+---
+
+
+<a><img src="http://globbia.github.io/assets/bojack_hopper.png" align="right" width="230" ></a>
 
 Hey! I am currently a postdoc in the [Algebra Group](http://www.math.muni.cz/~bourkej/BAS.html) in the Department for Mathematics and Statistics at [Masaryk University](https://www.math.muni.cz/english/) in Brno, CZ. Before that I was a PhD student supervised by [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) at the School of Mathematics, University of Leeds. I defended my thesis ["Pseudomonads, Relative Monads and Strongly Finitary Notions of Multicategory"](https://etheses.whiterose.ac.uk/30578/) in February 2022. Here you can find my [cv](Gabriele_Lobbia_CV.pdf) and my [Google Scholar account](https://scholar.google.com/citations?user=xjHu2moAAAAJ&hl=it).
 
